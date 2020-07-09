@@ -52,7 +52,7 @@ html,body{
     width: 1.5rem;
 }
 .containerBack{
-    background-image: url("/Assets/laptop1.jpg");
+    background-image: url("./Assets/laptop1.jpg");
     background-size:cover ;
     background-position: top;
     width: 80%;
